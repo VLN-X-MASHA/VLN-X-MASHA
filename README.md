@@ -1,7 +1,9 @@
 <h1 align="center">Halo Aku vanxzz</h1>
 <h3 align="center">masih pemula🗿</h3>
 
+<p></p>
 - Saya sedang belajar saat ini **python, html, css & js**
+- 
 
 <h3 align="left">Terhubung dengan saya:</h3>
 <p align="left">
