@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm <b>Vanxzz</b> 👋</h1>
-<h3 align="center">Developer Pemula • Belajar Python • Santuy tapi Konsisten 😎</h3>
+<h1 align="center">Hi, I'm <b>vanxzz</b> 👋</h1>
+<h3 align="center">Developer Pemula • Belajar Python • 😎</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vanxzz&style=flat-square" />
@@ -13,7 +13,7 @@
 - 🔥 Lagi belajar **Python**
 - 💻 Mulai ngulik HTML, CSS, & JS
 - 🧩 Suka oprek, eksperimen, dan bikin project kecil-kecilan
-- 🎯 Goal: Bikin project bermanfaat + leveling up tiap hari
+- 🎯 Goal: Bikin project bermanfaat
 
 ---
 
@@ -49,7 +49,7 @@
 ## 🌐 Sosial Media
 <p align="center">
 
-  <a href="https://www.tiktok.com/@username" target="_blank">
+  <a href="https://www.tiktok.com/@vanxzzxpy" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 
@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/vanxzz" target="_blank">
+  <a href="https://github.com/VLN-X-MASHA" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
