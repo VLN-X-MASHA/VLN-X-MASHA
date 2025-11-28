@@ -71,3 +71,13 @@ goals:
   "Aku akan tetap mencintai nya walaupun dia hanyalah fiksi" -vanxzz
 </p>  
 </div>
+
+
+
+--- 
+<!-- Footer kotak membulat -->
+<div align="center" style="background-color:#f0f0f0; padding:15px 30px; border-radius:50px; margin-top:20px; display:inline-block;">
+  <p style="margin:0; font-weight:bold; color:#333;">
+    💻 Keep calm and keep coding! | Made with ❤️ by Vanxzz 🚀
+  </p>
+</div>
