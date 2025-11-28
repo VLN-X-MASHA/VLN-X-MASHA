@@ -6,11 +6,6 @@
 <h1 align="center">Halo, Saya <span style="color:#1E90FF;">Vanxzz</span> 👋</h1>
 <p align="center">Pelajar & Beginner Programmer | <code>The Syntax Error</code></p>
 
-<style>
-.Languages img { width: 48px; margin: 0 12px; }  
-  
-</style>
-
 ## 🧩 Tentang Saya
 ```yaml
 name: "The Syntax Error"
@@ -44,13 +39,11 @@ goals:
 
 
 💻 Skill & Languages
-<div class="Languages">  
-    <p align="center">  
-        <img src="https://skillicons.dev/icons?i=python" width="48" />  
-        <img src="https://skillicons.dev/icons?i=html" width="48" />  
-        <img src="https://skillicons.dev/icons?i=css" width="48" />  
-    </p>     
-</div> 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python" width="48" style="margin: 0 12px;" />
+    <img src="https://skillicons.dev/icons?i=html" width="48" style="margin: 0 12px;" />
+    <img src="https://skillicons.dev/icons?i=css" width="48" style="margin: 0 12px;" />
+</p>
 
 
 🛠 Tools Favorit
@@ -68,7 +61,6 @@ goals:
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VLN-X-MASHA&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VLN-X-MASHA&theme=radical" />
 </p>
 
